@@ -1,0 +1,1 @@
+This project contains two Jupyter notebooks demonstrating core algorithmic concepts using practical, real-world problems. Together, they cover Greedy algorithms, Dynamic Programming, Backtracking, Brute Force, and Graph Algorithms with performance analysis.
